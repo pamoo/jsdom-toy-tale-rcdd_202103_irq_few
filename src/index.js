@@ -99,4 +99,4 @@ getToys().then(toys => {
     //function to render toys goes here or something
     renderToys(toy)
   })
-})
+}) 
